@@ -102,7 +102,7 @@
 - [Channel9](https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners)
 - [Eduonix](https://www.eduonix.com/courses/Software-Development/Learn-C-Sharp-Programming-From-Scratch)
 - [Tutorials Point](https://www.tutorialspoint.com/csharp)
-- [Zetcode](http://zetcode.com/lang/csharp/)
+- [Zetcode](https://zetcode.com/lang/csharp/)
 
 ## CSS
 
@@ -123,7 +123,7 @@
 - [Learn CSS Layouts](https://learnlayout.com/)
 - [Learn HTML & CSS](https://learn.shayhowe.com/)
 - [Flexbox Froggy](https://flexboxfroggy.com/)
-- [CSS Grid](http://cssgridgarden.com/)
+- [CSS Grid](https://cssgridgarden.com/)
 - [CSS Flexbox - freeCodeCamp](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/)
 - [CSS Grid - freeCodeCamp](https://learn.freecodecamp.org/responsive-web-design/css-grid/)
 - [CSS Testing - QuirksMode.org](https://www.quirksmode.org/css/)
@@ -269,14 +269,14 @@
 - [Javascript 30 by Wes Bos](https://javascript30.com/)
 - [ES6 for Everyone by Wes Bos](https://es6.io/)
 - [Alligator.io Javascript page](https://alligator.io/js/)
-- [JavaScript.info](http://javascript.info/)
+- [JavaScript.info](https://javascript.info/)
 - [Object Oriented JavaScript](https://www.thenetninja.co.uk/courses/object-oriented-javascript-tutorial)
 - [Learn X in Y minutes: JavaScript](https://learnxinyminutes.com/docs/javascript/)
 - [CSX Structured JavaScript Learning Journey - Codesmith](https://csx.codesmith.io/)
 - [Dev.to JavaScript](https://dev.to/t/javascript)
-- [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
+- [JavaScript Garden](https://bonsaiden.github.io/JavaScript-Garden/)
 - [Codecademy: Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
-- [Eloquent JavaScript](http://eloquentjavascript.net/)
+- [Eloquent JavaScript](https://eloquentjavascript.net/)
 
 ## Machine Learning
 
@@ -361,7 +361,7 @@
 - [ForLoop Pod](https://podcast.forloop.africa/)
 - [Soft Skills Engineering](https://softskills.audio/)
 - [Free Code Camp](https://freecodecamp.libsyn.com/)
-- [Full Stack Radio](http://www.fullstackradio.com/)
+- [Full Stack Radio](https://www.fullstackradio.com/)
 - [The Women in Tech Show](https://thewomenintechshow.com/)
 - [Front End Happy Hour](https://frontendhappyhour.com/)
 - [Laravel Podcast](https://www.laravelpodcast.com/)
